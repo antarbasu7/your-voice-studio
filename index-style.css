@@ -1588,6 +1588,9 @@ text-align: center;
 .services .services_icon{
 font-size: 20px;
 }
+.services{
+	margin: 0;
+	}
 
 }
 
